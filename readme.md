@@ -6,3 +6,5 @@
 	This repository is built step by step in the tutorial. 
 	Panen siisa veel yhe rea
 	Ah veel yks modi.
+	
+	Lokaalne modificatsioon on tehtu. Uh.
